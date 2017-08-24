@@ -1,0 +1,40 @@
+{
+  "name": "calcular-promedio-calificaciones-101",
+  "version": "0.1.0",
+  "description": "Calcular promedio de calificaciones. Ejercicio básico con express, arrays, objetos, funciones. Test con nodeunit",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiltrovira/calcular-promedio-calificaciones-101.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "calificaciones",
+    "array",
+    "objeto",
+    "promedio",
+    "funciones",
+    "nodeunit"
+
+  ],
+  "author": "Wilt Rovira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiltrovira/calcular-promedio-calificaciones-101/issues"
+  },
+  "homepage": "https://github.com/wiltrovira/calcular-promedio-calificaciones-101#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.11.1"
+  }
+}
